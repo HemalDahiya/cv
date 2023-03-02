@@ -1,0 +1,72 @@
+body{
+    /*background-color: blue;*/
+    background-color: aqua;;
+    margin:0px;
+    font-family: 'Merriweather', serif ;
+    text-align: center;
+}
+
+h1{
+    font-size: 90px;
+    font-family: 'sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h3{
+    
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.first{
+    background-color: aqua;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Merriweather', serif ;
+}
+.abc{
+    text-decoration: underline;
+}
+.bottom-cloud{
+   
+    position: relative;
+    bottom: 300px;
+    right: 200px;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 200px;
+
+}
+.mountain{
+    margin-right:"300px";
+    position: relative;
+    right: 90px;
+}
+.dynamic{
+    background-color: blanchedalmond;
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    top: 0px;
+    
+}
+.myachivements{
+   
+        position: absolute;
+        margin-top: 25px;
+        font-family: Great Vibes;
+        left: 120px;
+        font-size: 45px;
+        top: 0px;
+}
+.final{
+    position: absolute;
+    right: 40px;
+    top: 0px;
+    
+   
+}
